@@ -3,7 +3,7 @@
 	function presentacion (string $nombre):string 
 	{
 
-		return "Hola mi nombre es $nombre";
+		return "Hola mi nombre es $nombre mucho gusto amigo!";
 
 
 	}

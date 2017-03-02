@@ -8,6 +8,6 @@
 
 	}
 
-	echo sumar(5,6);
+	echo "La suma es : ".sumar(5,6);
 
 ?>
